@@ -21,7 +21,7 @@ int ReadInt(string message)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-// Функция вывода цифры стоящей в середине трехзнач782но числа.
+// Функция вывода цифры стоящей в середине трехзначного числа.
 int InCenter(int a)
 {
     
